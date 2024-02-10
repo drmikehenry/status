@@ -1,0 +1,223 @@
+Repository: home.git
+commit a3fea3e074642d2a3f78a26886797deffb032fbe
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Add `ruff` user-wide configuration.
+
+Repository: vimfiles.git
+commit e09c50592c83a0115e79e29af0fc635fa7175ae2
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Extend "SwapIt" plugin to support `TODO/DOING/DONE`.
+
+Repository: act-zero-ext.git
+commit fbd68f0bd5fde8a432f2d70c9f0a855046f57f55
+Author: Diggory Blake <diggsey@googlemail.com>
+
+    Upgrade to Tokio 1.0
+
+Repository: ale.git
+commit bee8eccb421968d1f2628c15e9f2bfcc3d0418aa
+Author: w0rp <devw0rp@gmail.com>
+
+    Fix a bug when code actions have no changes
+
+Repository: blacktop.git
+commit 6471bdf2d1b53b7fed6600cd8e2b154c855f583c
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Run blacktop against its own setup.py file.
+
+Repository: bufmru.vim.git
+commit 821869d8b6139536c1122902493de00c654b5a2a
+Author: Andy Wokula <anwoku@yahoo.de>
+
+    Version 3.3
+
+Repository: cookiecutter-pythonapp.git
+commit 18d32b9bb6480d35014912cf88754da7af58129b
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Use newer print-related logic.
+
+Repository: crc_incremental.git
+commit 6c8b16aa31a429a5ae415a13e6f808bec10a2b17
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Added license.
+
+Repository: cygmin.git
+commit 29a40352c97ceeadd9815f5ac04d00ff8dec05dd
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Create escWinPath() function to consolidate escaping logic.
+
+Repository: findx.git
+commit 1c46cfde0a26353e41fafef9d307e1b0f6631c5b
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Update CHANGES.rst.
+
+Repository: git-ibundle.git
+commit 332eef32aec171d685d25379b6ebe84ceea28054
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Allow refs (tags, branches) that aren't commits.
+
+Repository: install-linux.git
+commit 0ce2eaa68cebf06d9fae91e4675e466be72cfc52
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Add `ruff` support.
+
+Repository: manpageview.git
+commit c93cea080475bc7797ea435796b86ef7a4fe0a97
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Merge version 25u from http://www.drchip.org/astronaut/vim/#MANPAGEVIEW.
+
+Repository: mythtv.git
+commit 42d4a3146a0658403579ba9446050b3974090b6d
+Author: Peter Bennett <pbennett@mythtv.org>
+
+    Fixes #13059 - Flickering pause on Raspberry Pi.
+
+Repository: OmniCppComplete.git
+commit 2fac015957895dffa6b298e3c028ac30560d015b
+Author: Vissale NEANG <fromtonrouge@gmail.com>
+
+    Version 0.41
+
+Repository: ptee.git
+commit 7a7c1c69a1a9865a367bf6c6cdb46d7939b51534
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Update CHANGES.rst.
+
+Repository: pythonsource.git
+commit 7693f70fe85e6caa9298f544ec4a688a3c67f2e2
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Document use of sparse checkouts.
+
+Repository: romt.git
+commit 220b88ef9d6d94a9375fc92c2ab75c5ce03bc266
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Fix typos: --targets ==> --target.
+
+Repository: rust-async.git
+commit 09513af9a5f3f755cdfc9f8b5fa7aa224879b2f1
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Relay examples.
+
+Repository: rust_crate_vendor.git
+commit dc23bcafc8ceaf98e822792ead9e77dd4f08cf46
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Flesh out README.rst.
+
+Repository: rust.vim.git
+commit 889b9a7515db477f4cb6808bef1769e53493c578
+Author: Dan Aloni <alonid@gmail.com>
+
+    Revert "Migrate from highfive to triagebot"
+
+Repository: serde.git
+commit ef6ed1d1be9a181a3a6d19d0860befe5d7b279b7
+Author: David Tolnay <dtolnay@gmail.com>
+
+    Copy some new links from serde.rs to the crate-level doc
+
+Repository: serde-rs.github.io.git
+commit b57e5d4fd4057c34c8efa3f4afb3136f0c2a4812
+Author: David Tolnay <dtolnay@gmail.com>
+
+    Trigger GitHub Pages rebuild
+
+Repository: svnwrap.git
+commit 12de558c81dc8d1050325020f3fc5852186c1822
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Update CHANGES.rst.
+
+Repository: vcscommand.vim.git
+commit 39aa0807d29c2ef7b10e2b91dfac4a43fc2abcf2
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Restore "unlet preferences" since Vim will not change from list to non-list variable.
+
+Repository: vim-align.git
+commit ed3663c4112174834d0baf82ed800b5e1f2e93b8
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Use `g:Align_mapleader` with `Htd` mapping.
+
+Repository: vim-extend_list.git
+commit 1d004f488b2165b7fa1970f431534ca45062b899
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Initial version.
+
+Repository: vim-extline.git
+commit 0529b0d4d44345024704980936bdd567b3c0f4be
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Allow multi-byte characters for "horizontal line update".
+
+Repository: vim-fixkey.git
+commit 53c832b91af983cd7963b681625bc586ce330d00
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Fix regression in version 0.3.14 for terminals that lack `TermResponse`.
+
+Repository: vim-fontdetect.git
+commit c238ea986c4f253085bec6cd168d1e40abd3687b
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Note Python 3 support from Mike Haig.
+
+Repository: vim-fontsize.git
+commit b9612d78887d72f685a78901875aa0bb181fa20d
+Author: Michael Henry <drmikehenry@drmikehenry.com>
+
+    Add support for Neovim GUIs (at least nvim-qt and neovide).
+
+Repository: vim-grepper.git
+commit e9004ce564891412cfe433cfbb97295cccd06b39
+Author: mjv761 <michael.vanderkamp@usask.ca>
+
+    Pass empty list to setqflist when setting attrs
+
+Repository: vim-headerguard.git
+commit 8987a70ad416414ce5c570842c392111abd10555
+Author: Cyrille Faucheux <cyrille.faucheux@gmail.com>
+
+    gitignore doc/tags
+
+Repository: vim-misc.git
+commit 3e6b8fb6f03f13434543ce1f5d24f6a5d3f34f0b
+Author: Peter Odding <peter@peterodding.com>
+
+    Try to fix issue #17 (async command execution on Windows without DLL)
+
+Repository: vim-powerline.git
+commit 09c0cea859a2e0989eea740655b35976d951a84e
+Author: ZyX <kp-pav@ya.ru>
+
+    Use stricter matches. Also don’t count on 'ignorecase' option when matching buffers
+
+Repository: vim-restructuredtext.git
+commit 8284ec393f409b152e5f9cdbe022a9d4f34d84f7
+Author: Minjie Xu <madjxatw@gmail.com>
+
+    Fix highlights nested in directive body
+
+Repository: vim-z80.git
+commit 487a6a0dc77ba1415a484fccf42dcefae0216f22
+Merge: 3b9e2b2 a162220
+Author: Víctor Marzo Cejudo <samsaga2@gmail.com>
+
+    Merge pull request #1 from seanpianka/master
+
