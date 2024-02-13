@@ -1,8 +1,8 @@
 Repository: home.git
-commit a3fea3e074642d2a3f78a26886797deffb032fbe
+commit 4b7097c35426d9ec50487cf02444aab95d822267
 Author: Michael Henry <drmikehenry@drmikehenry.com>
 
-    Add `ruff` user-wide configuration.
+    Chain to `~/.gitconfig2` if it exists.
 
 Repository: vimfiles.git
 commit e09c50592c83a0115e79e29af0fc635fa7175ae2
