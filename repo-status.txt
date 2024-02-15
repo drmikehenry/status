@@ -1,8 +1,8 @@
 Repository: home.git
-commit 4b7097c35426d9ec50487cf02444aab95d822267
+commit 405512261869332ba5d162e609e206a225d8358c
 Author: Michael Henry <drmikehenry@drmikehenry.com>
 
-    Chain to `~/.gitconfig2` if it exists.
+    Default to `--line-numbers`.
 
 Repository: vimfiles.git
 commit e09c50592c83a0115e79e29af0fc635fa7175ae2
