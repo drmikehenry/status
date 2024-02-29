@@ -101,10 +101,10 @@ Author: Michael Henry <drmikehenry@drmikehenry.com>
     Document use of sparse checkouts.
 
 Repository: romt.git
-commit 220b88ef9d6d94a9375fc92c2ab75c5ce03bc266
+commit c59218dc2945358bbe378b546f1fd2127c7983f5
 Author: Michael Henry <drmikehenry@drmikehenry.com>
 
-    Fix typos: --targets ==> --target.
+    Note names of missing crates.
 
 Repository: rust-async.git
 commit 09513af9a5f3f755cdfc9f8b5fa7aa224879b2f1
