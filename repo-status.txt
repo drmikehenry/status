@@ -1,223 +1,222 @@
 Repository: home.git
-commit 405512261869332ba5d162e609e206a225d8358c
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Default to `--line-numbers`.
+Date:       2024-02-14 19:06:44 -0500
+Commit:     405512261869332ba5d162e609e206a225d8358c
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Default to `--line-numbers`.
 
 Repository: vimfiles.git
-commit e09c50592c83a0115e79e29af0fc635fa7175ae2
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Extend "SwapIt" plugin to support `TODO/DOING/DONE`.
+Date:       2023-08-27 12:00:33 -0400
+Commit:     e09c50592c83a0115e79e29af0fc635fa7175ae2
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Extend "SwapIt" plugin to support `TODO/DOING/DONE`.
 
 Repository: act-zero-ext.git
-commit fbd68f0bd5fde8a432f2d70c9f0a855046f57f55
-Author: Diggory Blake <diggsey@googlemail.com>
-
-    Upgrade to Tokio 1.0
+Date:       2021-01-13 18:46:45 +0000
+Commit:     fbd68f0bd5fde8a432f2d70c9f0a855046f57f55
+Refs:       HEAD -> master
+Subject:    Upgrade to Tokio 1.0
 
 Repository: ale.git
-commit bee8eccb421968d1f2628c15e9f2bfcc3d0418aa
-Author: w0rp <devw0rp@gmail.com>
-
-    Fix a bug when code actions have no changes
+Date:       2021-05-04 08:44:28 +0100
+Commit:     bee8eccb421968d1f2628c15e9f2bfcc3d0418aa
+Refs:       HEAD -> master, origin/master
+Subject:    Fix a bug when code actions have no changes
 
 Repository: blacktop.git
-commit 6471bdf2d1b53b7fed6600cd8e2b154c855f583c
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Run blacktop against its own setup.py file.
+Date:       2018-12-29 11:01:34 -0500
+Commit:     6471bdf2d1b53b7fed6600cd8e2b154c855f583c
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Run blacktop against its own setup.py file.
 
 Repository: bufmru.vim.git
-commit 821869d8b6139536c1122902493de00c654b5a2a
-Author: Andy Wokula <anwoku@yahoo.de>
-
-    Version 3.3
+Date:       2009-05-10 00:00:00 +0000
+Commit:     821869d8b6139536c1122902493de00c654b5a2a
+Refs:       HEAD -> master, tag: 3.3
+Subject:    Version 3.3
 
 Repository: cookiecutter-pythonapp.git
-commit 18d32b9bb6480d35014912cf88754da7af58129b
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Use newer print-related logic.
+Date:       2020-05-25 09:07:05 -0400
+Commit:     18d32b9bb6480d35014912cf88754da7af58129b
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Use newer print-related logic.
 
 Repository: crc_incremental.git
-commit 6c8b16aa31a429a5ae415a13e6f808bec10a2b17
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Added license.
+Date:       2012-09-03 08:59:42 -0400
+Commit:     6c8b16aa31a429a5ae415a13e6f808bec10a2b17
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Added license.
 
 Repository: cygmin.git
-commit 29a40352c97ceeadd9815f5ac04d00ff8dec05dd
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Create escWinPath() function to consolidate escaping logic.
+Date:       2015-01-05 07:54:23 -0500
+Commit:     29a40352c97ceeadd9815f5ac04d00ff8dec05dd
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Create escWinPath() function to consolidate escaping logic.
 
 Repository: findx.git
-commit 1c46cfde0a26353e41fafef9d307e1b0f6631c5b
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Update CHANGES.rst.
+Date:       2020-02-17 10:36:34 -0500
+Commit:     1c46cfde0a26353e41fafef9d307e1b0f6631c5b
+Refs:       HEAD -> main, tag: v0.10.2, origin/travis, origin/main, origin/HEAD
+Subject:    Update CHANGES.rst.
 
 Repository: git-ibundle.git
-commit 332eef32aec171d685d25379b6ebe84ceea28054
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Allow refs (tags, branches) that aren't commits.
+Date:       2024-01-30 17:27:29 -0500
+Commit:     332eef32aec171d685d25379b6ebe84ceea28054
+Refs:       HEAD -> main, tag: v0.2.2, origin/main
+Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-commit 0ce2eaa68cebf06d9fae91e4675e466be72cfc52
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Add `ruff` support.
+Date:       2024-02-10 12:51:24 -0500
+Commit:     0ce2eaa68cebf06d9fae91e4675e466be72cfc52
+Refs:       HEAD -> main, origin/main
+Subject:    Add `ruff` support.
 
 Repository: manpageview.git
-commit c93cea080475bc7797ea435796b86ef7a4fe0a97
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Merge version 25u from http://www.drchip.org/astronaut/vim/#MANPAGEVIEW.
+Date:       2019-09-15 07:44:28 -0400
+Commit:     c93cea080475bc7797ea435796b86ef7a4fe0a97
+Refs:       HEAD -> master, tag: 25u, origin/master
+Subject:    Merge version 25u from http://www.drchip.org/astronaut/vim/#MANPAGEVIEW.
 
 Repository: mythtv.git
-commit 42d4a3146a0658403579ba9446050b3974090b6d
-Author: Peter Bennett <pbennett@mythtv.org>
-
-    Fixes #13059 - Flickering pause on Raspberry Pi.
+Date:       2017-06-28 11:21:47 -0400
+Commit:     42d4a3146a0658403579ba9446050b3974090b6d
+Refs:       HEAD -> master
+Subject:    Fixes #13059 - Flickering pause on Raspberry Pi.
 
 Repository: OmniCppComplete.git
-commit 2fac015957895dffa6b298e3c028ac30560d015b
-Author: Vissale NEANG <fromtonrouge@gmail.com>
-
-    Version 0.41
+Date:       2007-09-27 00:00:00 +0000
+Commit:     2fac015957895dffa6b298e3c028ac30560d015b
+Refs:       HEAD -> master, tag: 0.41
+Subject:    Version 0.41
 
 Repository: ptee.git
-commit 7a7c1c69a1a9865a367bf6c6cdb46d7939b51534
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Update CHANGES.rst.
+Date:       2020-02-17 10:38:47 -0500
+Commit:     7a7c1c69a1a9865a367bf6c6cdb46d7939b51534
+Refs:       HEAD -> main, tag: v0.4.1, origin/travis, origin/main, origin/HEAD
+Subject:    Update CHANGES.rst.
 
 Repository: pythonsource.git
-commit 7693f70fe85e6caa9298f544ec4a688a3c67f2e2
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Document use of sparse checkouts.
+Date:       2023-04-29 08:37:33 -0400
+Commit:     7693f70fe85e6caa9298f544ec4a688a3c67f2e2
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Document use of sparse checkouts.
 
 Repository: romt.git
-commit c59218dc2945358bbe378b546f1fd2127c7983f5
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Note names of missing crates.
+Date:       2022-04-27 06:15:19 -0400
+Commit:     c59218dc2945358bbe378b546f1fd2127c7983f5
+Refs:       HEAD -> main, tag: v0.4.0, origin/main, origin/HEAD
+Subject:    Note names of missing crates.
 
 Repository: rust-async.git
-commit 09513af9a5f3f755cdfc9f8b5fa7aa224879b2f1
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Relay examples.
+Date:       2021-09-25 19:35:12 -0400
+Commit:     09513af9a5f3f755cdfc9f8b5fa7aa224879b2f1
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Relay examples.
 
 Repository: rust_crate_vendor.git
-commit dc23bcafc8ceaf98e822792ead9e77dd4f08cf46
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Flesh out README.rst.
+Date:       2019-02-23 14:00:11 -0500
+Commit:     dc23bcafc8ceaf98e822792ead9e77dd4f08cf46
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Flesh out README.rst.
 
 Repository: rust.vim.git
-commit 889b9a7515db477f4cb6808bef1769e53493c578
-Author: Dan Aloni <alonid@gmail.com>
-
-    Revert "Migrate from highfive to triagebot"
+Date:       2022-11-27 16:26:22 +0200
+Commit:     889b9a7515db477f4cb6808bef1769e53493c578
+Refs:       HEAD -> master, origin/master
+Subject:    Revert "Migrate from highfive to triagebot"
 
 Repository: serde.git
-commit ef6ed1d1be9a181a3a6d19d0860befe5d7b279b7
-Author: David Tolnay <dtolnay@gmail.com>
-
-    Copy some new links from serde.rs to the crate-level doc
+Date:       2020-05-22 12:49:15 -0700
+Commit:     ef6ed1d1be9a181a3a6d19d0860befe5d7b279b7
+Refs:       HEAD -> master, origin/master, origin/HEAD
+Subject:    Copy some new links from serde.rs to the crate-level doc
 
 Repository: serde-rs.github.io.git
-commit b57e5d4fd4057c34c8efa3f4afb3136f0c2a4812
-Author: David Tolnay <dtolnay@gmail.com>
-
-    Trigger GitHub Pages rebuild
+Date:       2020-05-22 15:26:03 -0700
+Commit:     b57e5d4fd4057c34c8efa3f4afb3136f0c2a4812
+Refs:       HEAD -> master
+Subject:    Trigger GitHub Pages rebuild
 
 Repository: svnwrap.git
-commit 12de558c81dc8d1050325020f3fc5852186c1822
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Update CHANGES.rst.
+Date:       2020-02-17 10:40:32 -0500
+Commit:     12de558c81dc8d1050325020f3fc5852186c1822
+Refs:       HEAD -> main, tag: v0.8.2, origin/travis, origin/main, origin/HEAD
+Subject:    Update CHANGES.rst.
 
 Repository: vcscommand.vim.git
-commit 39aa0807d29c2ef7b10e2b91dfac4a43fc2abcf2
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Restore "unlet preferences" since Vim will not change from list to non-list variable.
+Date:       2013-03-02 07:54:10 -0500
+Commit:     39aa0807d29c2ef7b10e2b91dfac4a43fc2abcf2
+Refs:       HEAD -> master, origin/master
+Subject:    Restore "unlet preferences" since Vim will not change from list to non-list variable.
 
 Repository: vim-align.git
-commit ed3663c4112174834d0baf82ed800b5e1f2e93b8
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Use `g:Align_mapleader` with `Htd` mapping.
+Date:       2023-12-30 07:37:45 -0500
+Commit:     ed3663c4112174834d0baf82ed800b5e1f2e93b8
+Refs:       HEAD -> main
+Subject:    Use `g:Align_mapleader` with `Htd` mapping.
 
 Repository: vim-extend_list.git
-commit 1d004f488b2165b7fa1970f431534ca45062b899
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Initial version.
+Date:       2022-02-17 16:27:13 -0500
+Commit:     1d004f488b2165b7fa1970f431534ca45062b899
+Refs:       HEAD -> main
+Subject:    Initial version.
 
 Repository: vim-extline.git
-commit 0529b0d4d44345024704980936bdd567b3c0f4be
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Allow multi-byte characters for "horizontal line update".
+Date:       2023-05-06 10:49:04 -0400
+Commit:     0529b0d4d44345024704980936bdd567b3c0f4be
+Refs:       HEAD -> main, tag: v0.2.1, origin/main, origin/HEAD
+Subject:    Allow multi-byte characters for "horizontal line update".
 
 Repository: vim-fixkey.git
-commit 53c832b91af983cd7963b681625bc586ce330d00
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Fix regression in version 0.3.14 for terminals that lack `TermResponse`.
+Date:       2023-04-29 10:10:41 -0400
+Commit:     53c832b91af983cd7963b681625bc586ce330d00
+Refs:       HEAD -> main, tag: v0.3.15, origin/main, origin/HEAD
+Subject:    Fix regression in version 0.3.14 for terminals that lack `TermResponse`.
 
 Repository: vim-fontdetect.git
-commit c238ea986c4f253085bec6cd168d1e40abd3687b
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Note Python 3 support from Mike Haig.
+Date:       2018-10-27 15:17:00 -0400
+Commit:     c238ea986c4f253085bec6cd168d1e40abd3687b
+Refs:       HEAD -> main, tag: v0.3.0, origin/main, origin/HEAD
+Subject:    Note Python 3 support from Mike Haig.
 
 Repository: vim-fontsize.git
-commit b9612d78887d72f685a78901875aa0bb181fa20d
-Author: Michael Henry <drmikehenry@drmikehenry.com>
-
-    Add support for Neovim GUIs (at least nvim-qt and neovide).
+Date:       2023-08-19 16:08:49 -0400
+Commit:     b9612d78887d72f685a78901875aa0bb181fa20d
+Refs:       HEAD -> main, tag: v0.5.0, origin/main, origin/HEAD
+Subject:    Add support for Neovim GUIs (at least nvim-qt and neovide).
 
 Repository: vim-grepper.git
-commit e9004ce564891412cfe433cfbb97295cccd06b39
-Author: mjv761 <michael.vanderkamp@usask.ca>
-
-    Pass empty list to setqflist when setting attrs
+Date:       2020-07-06 20:37:56 -0600
+Commit:     e9004ce564891412cfe433cfbb97295cccd06b39
+Refs:       HEAD -> master
+Subject:    Pass empty list to setqflist when setting attrs
 
 Repository: vim-headerguard.git
-commit 8987a70ad416414ce5c570842c392111abd10555
-Author: Cyrille Faucheux <cyrille.faucheux@gmail.com>
-
-    gitignore doc/tags
+Date:       2022-11-26 17:37:01 +0100
+Commit:     8987a70ad416414ce5c570842c392111abd10555
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    gitignore doc/tags
 
 Repository: vim-misc.git
-commit 3e6b8fb6f03f13434543ce1f5d24f6a5d3f34f0b
-Author: Peter Odding <peter@peterodding.com>
-
-    Try to fix issue #17 (async command execution on Windows without DLL)
+Date:       2015-05-21 20:53:55 +0200
+Commit:     3e6b8fb6f03f13434543ce1f5d24f6a5d3f34f0b
+Refs:       HEAD -> master, origin/master
+Subject:    Try to fix issue #17 (async command execution on Windows without DLL)
 
 Repository: vim-powerline.git
-commit 09c0cea859a2e0989eea740655b35976d951a84e
-Author: ZyX <kp-pav@ya.ru>
-
-    Use stricter matches. Also don’t count on 'ignorecase' option when matching buffers
+Date:       2012-08-17 15:07:11 +0359
+Commit:     09c0cea859a2e0989eea740655b35976d951a84e
+Refs:       HEAD -> develop
+Subject:    Use stricter matches. Also don’t count on 'ignorecase' option when matching buffers
 
 Repository: vim-restructuredtext.git
-commit 8284ec393f409b152e5f9cdbe022a9d4f34d84f7
-Author: Minjie Xu <madjxatw@gmail.com>
-
-    Fix highlights nested in directive body
+Date:       2020-05-01 01:58:49 +0800
+Commit:     8284ec393f409b152e5f9cdbe022a9d4f34d84f7
+Refs:       HEAD -> master
+Subject:    Fix highlights nested in directive body
 
 Repository: vim-z80.git
-commit 487a6a0dc77ba1415a484fccf42dcefae0216f22
-Merge: 3b9e2b2 a162220
-Author: Víctor Marzo Cejudo <samsaga2@gmail.com>
-
-    Merge pull request #1 from seanpianka/master
+Date:       2017-05-31 08:27:59 +0200
+Commit:     487a6a0dc77ba1415a484fccf42dcefae0216f22
+Refs:       HEAD -> master
+Subject:    Merge pull request #1 from seanpianka/master
 
