@@ -101,10 +101,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Document use of sparse checkouts.
 
 Repository: romt.git
-Date:       2022-04-27 06:15:19 -0400
-Commit:     c59218dc2945358bbe378b546f1fd2127c7983f5
-Refs:       HEAD -> main, tag: v0.4.0, origin/main, origin/HEAD
-Subject:    Note names of missing crates.
+Date:       2024-03-02 13:56:58 -0500
+Commit:     f5c85eb84aeca0fb7b58557eb5cdfe106ac5e7b6
+Refs:       HEAD -> main, tag: v0.5.0, origin/main, origin/HEAD, cross
+Subject:    Suppress `minimal` targets from `toolchain list` unless `--verbose`.
 
 Repository: rust-async.git
 Date:       2021-09-25 19:35:12 -0400
