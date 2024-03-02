@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-02-14 19:06:44 -0500
-Commit:     405512261869332ba5d162e609e206a225d8358c
+Date:       2024-03-02 09:42:32 -0500
+Commit:     09f770ea578e4095beb757720b9cc8b91e8e744e
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Default to `--line-numbers`.
+Subject:    Demote `dmh:` to `~/.gitconfig2`.
 
 Repository: vimfiles.git
 Date:       2023-08-27 12:00:33 -0400
