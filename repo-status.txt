@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-03-02 09:42:32 -0500
-Commit:     09f770ea578e4095beb757720b9cc8b91e8e744e
+Date:       2024-03-05 05:49:44 -0500
+Commit:     3bb769c12a335319bcb4bfcc53c3feed00cfe3eb
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Demote `dmh:` to `~/.gitconfig2`.
+Subject:    Fix typo in `linehash` help.
 
 Repository: vimfiles.git
 Date:       2023-08-27 12:00:33 -0400
@@ -101,10 +101,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Document use of sparse checkouts.
 
 Repository: romt.git
-Date:       2024-03-02 13:56:58 -0500
-Commit:     f5c85eb84aeca0fb7b58557eb5cdfe106ac5e7b6
-Refs:       HEAD -> main, tag: v0.5.0, origin/main, origin/HEAD, cross
-Subject:    Suppress `minimal` targets from `toolchain list` unless `--verbose`.
+Date:       2024-03-05 05:44:40 -0500
+Commit:     4874cbfa98137a14ab04db879b68e33dc39ca921
+Refs:       HEAD -> main, tag: v0.5.1, origin/main, origin/HEAD
+Subject:    Remove extraneous artifacts from `.whl`; add build scripts to `.tar.gz.`
 
 Repository: rust-async.git
 Date:       2021-09-25 19:35:12 -0400
