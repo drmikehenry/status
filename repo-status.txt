@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Add `refresh-chrome`.
 
 Repository: vimfiles.git
-Date:       2023-08-27 12:00:33 -0400
-Commit:     e09c50592c83a0115e79e29af0fc635fa7175ae2
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Extend "SwapIt" plugin to support `TODO/DOING/DONE`.
+Date:       2024-03-16 18:05:15 -0400
+Commit:     4f4c19a38af70ac4790624bb37baf65641560b93
+Refs:       HEAD -> main, origin/neovim, origin/main, origin/HEAD, neovim
+Subject:    Deprecate use of `init.lua`.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
