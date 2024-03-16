@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-03-05 05:49:44 -0500
-Commit:     3bb769c12a335319bcb4bfcc53c3feed00cfe3eb
+Date:       2024-03-16 08:46:25 -0400
+Commit:     f2956bb255ec7081fac3094ef4108b8ca171826d
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix typo in `linehash` help.
+Subject:    Add `refresh-chrome`.
 
 Repository: vimfiles.git
 Date:       2023-08-27 12:00:33 -0400
@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-02-10 12:51:24 -0500
-Commit:     0ce2eaa68cebf06d9fae91e4675e466be72cfc52
+Date:       2024-03-16 08:54:24 -0400
+Commit:     547612db30cc8a5eab02e714c3a30ba8965763e0
 Refs:       HEAD -> main, origin/main
-Subject:    Add `ruff` support.
+Subject:    Note how to start with an empty Plasma session.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
