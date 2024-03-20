@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-03-16 08:46:25 -0400
-Commit:     f2956bb255ec7081fac3094ef4108b8ca171826d
+Date:       2024-03-20 07:01:04 -0400
+Commit:     10149fbcf71c928ad669ba3e76657b08751c49ef
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `refresh-chrome`.
+Subject:    Ignore `.npm/`.
 
 Repository: vimfiles.git
 Date:       2024-03-16 18:05:15 -0400
