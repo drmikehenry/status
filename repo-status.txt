@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Ignore `.npm/`.
 
 Repository: vimfiles.git
-Date:       2024-03-16 18:05:15 -0400
-Commit:     4f4c19a38af70ac4790624bb37baf65641560b93
-Refs:       HEAD -> main, origin/neovim, origin/main, origin/HEAD, neovim
-Subject:    Deprecate use of `init.lua`.
+Date:       2024-03-28 17:37:20 -0400
+Commit:     a89a26ab0f39469691f50d2b41a5cffdeecd6e68
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Upgrade ``surround`` plugin to version 2022-10-25.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
