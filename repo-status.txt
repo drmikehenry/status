@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-03-16 08:54:24 -0400
-Commit:     547612db30cc8a5eab02e714c3a30ba8965763e0
+Date:       2024-03-31 12:10:22 -0400
+Commit:     0b8ef7eb07b25a607c4c13961ed613481f2937a2
 Refs:       HEAD -> main, origin/main
-Subject:    Note how to start with an empty Plasma session.
+Subject:    Add VNC notes.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
