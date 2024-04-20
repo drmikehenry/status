@@ -101,10 +101,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Document use of sparse checkouts.
 
 Repository: romt.git
-Date:       2024-03-05 05:44:40 -0500
-Commit:     4874cbfa98137a14ab04db879b68e33dc39ca921
-Refs:       HEAD -> main, tag: v0.5.1, origin/main, origin/HEAD
-Subject:    Remove extraneous artifacts from `.whl`; add build scripts to `.tar.gz.`
+Date:       2024-04-20 13:42:05 -0400
+Commit:     df802e422ff97e90b83489cf22d70be1ffb2291b
+Refs:       HEAD -> main, tag: v0.6.0, origin/main, origin/HEAD
+Subject:    Document how to use `nxingx` with the "sparse" index protocol.
 
 Repository: rust-async.git
 Date:       2021-09-25 19:35:12 -0400
