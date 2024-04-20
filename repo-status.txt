@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Ignore `.npm/`.
 
 Repository: vimfiles.git
-Date:       2024-03-28 17:37:20 -0400
-Commit:     a89a26ab0f39469691f50d2b41a5cffdeecd6e68
+Date:       2024-04-20 18:05:18 -0400
+Commit:     8a523d34ae217645eaf14ded8316fbbea785c7c6
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Upgrade ``surround`` plugin to version 2022-10-25.
+Subject:    Restore the `:Highlight` command functionality.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
