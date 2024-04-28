@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-03-31 12:10:22 -0400
-Commit:     0b8ef7eb07b25a607c4c13961ed613481f2937a2
+Date:       2024-04-28 16:02:48 -0400
+Commit:     8fce2d36d7828bd6587ed5fa7cf93dc2e0d117a0
 Refs:       HEAD -> main, origin/main
-Subject:    Add VNC notes.
+Subject:    Remove `sambashare` group.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
