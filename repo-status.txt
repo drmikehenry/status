@@ -101,10 +101,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Document use of sparse checkouts.
 
 Repository: romt.git
-Date:       2024-04-20 13:42:05 -0400
-Commit:     df802e422ff97e90b83489cf22d70be1ffb2291b
-Refs:       HEAD -> main, tag: v0.6.0, origin/main, origin/HEAD
-Subject:    Document how to use `nxingx` with the "sparse" index protocol.
+Date:       2024-05-01 18:17:43 -0400
+Commit:     dbeb80944d25ce3564a141a711b376772511a1ff
+Refs:       HEAD -> main
+Subject:    Fix accidental reliance on backported Python security fixes.
 
 Repository: rust-async.git
 Date:       2021-09-25 19:35:12 -0400
