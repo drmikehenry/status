@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-05-11 16:40:46 -0400
-Commit:     bf00cacdeb8e681f0d091d4f09dfd0ffd0d3e4e6
+Date:       2024-05-11 18:15:59 -0400
+Commit:     dc572e21238c031a11e052ab98409a41a42764b7
 Refs:       HEAD -> main, origin/main
-Subject:    Note how to enable source repositories for Ubuntu 24.04.
+Subject:    `apt-get` -> `apt`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
