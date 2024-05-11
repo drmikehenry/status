@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-05-11 16:16:24 -0400
-Commit:     819d9ada9a8d5b245c05371a3abd3b2129632582
-Refs:       HEAD -> main
-Subject:    Automate `snap` removal for Ubuntu 24.04.
+Date:       2024-05-11 16:40:46 -0400
+Commit:     bf00cacdeb8e681f0d091d4f09dfd0ffd0d3e4e6
+Refs:       HEAD -> main, origin/main
+Subject:    Note how to enable source repositories for Ubuntu 24.04.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
