@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-05-14 08:06:15 -0400
-Commit:     578d3ee723061f8f3cf53b16738c88b6b3207421
+Date:       2024-05-16 06:40:14 -0400
+Commit:     cf3fe815e8366dc8de4a35427b284bf391407d7a
 Refs:       HEAD -> main, origin/main
-Subject:    Automate Mozilla PPA installation using new method.
+Subject:    Add notes for starting from Ubuntu Live Server.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
