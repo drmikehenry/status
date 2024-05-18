@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-03-20 07:01:04 -0400
-Commit:     10149fbcf71c928ad669ba3e76657b08751c49ef
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Ignore `.npm/`.
+Date:       2024-05-18 17:59:06 -0400
+Commit:     efe7c8c2b2b96b6a9ddffd2148e61fd654fc4598
+Refs:       HEAD -> main
+Subject:    Add `~/.config/nvim/init.vim`.
 
 Repository: vimfiles.git
 Date:       2024-04-20 18:05:18 -0400
