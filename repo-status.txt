@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-05-18 17:59:06 -0400
-Commit:     efe7c8c2b2b96b6a9ddffd2148e61fd654fc4598
-Refs:       HEAD -> main
-Subject:    Add `~/.config/nvim/init.vim`.
+Date:       2024-05-25 16:35:47 -0400
+Commit:     34ddc4d8dcafd0843c242d07d9932f4e82d7713d
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Adjust `gr`/`gr2` for new Neovim activation scheme.
 
 Repository: vimfiles.git
 Date:       2024-05-25 13:15:51 -0400
@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-05-16 06:40:14 -0400
-Commit:     cf3fe815e8366dc8de4a35427b284bf391407d7a
+Date:       2024-05-25 16:34:53 -0400
+Commit:     fa17750f51c246b85936a9c0f1b0fa2e52fef87c
 Refs:       HEAD -> main, origin/main
-Subject:    Add notes for starting from Ubuntu Live Server.
+Subject:    Fix typo on `NVIM)` instance.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
