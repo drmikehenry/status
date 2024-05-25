@@ -5,10 +5,10 @@ Refs:       HEAD -> main
 Subject:    Add `~/.config/nvim/init.vim`.
 
 Repository: vimfiles.git
-Date:       2024-04-20 18:05:18 -0400
-Commit:     8a523d34ae217645eaf14ded8316fbbea785c7c6
+Date:       2024-05-25 13:15:51 -0400
+Commit:     deb37ec28c8547ee051b379bb2f662531076aeb0
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Restore the `:Highlight` command functionality.
+Subject:    Custom <F8> support for `drmikehenry` user.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
