@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-05-25 16:34:53 -0400
-Commit:     fa17750f51c246b85936a9c0f1b0fa2e52fef87c
+Date:       2024-05-25 18:06:47 -0400
+Commit:     3e1e02688306bb68972c7e7739a90fb74eedd102
 Refs:       HEAD -> main, origin/main
-Subject:    Fix typo on `NVIM)` instance.
+Subject:    Note how to disable the `systemd-networkd-wait-online` service.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
