@@ -53,10 +53,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Create escWinPath() function to consolidate escaping logic.
 
 Repository: findx.git
-Date:       2020-02-17 10:36:34 -0500
-Commit:     1c46cfde0a26353e41fafef9d307e1b0f6631c5b
-Refs:       HEAD -> main, tag: v0.10.2, origin/travis, origin/main, origin/HEAD
-Subject:    Update CHANGES.rst.
+Date:       2024-05-27 14:54:37 -0400
+Commit:     ef4059bd2663402b49fdf76bfcbd93144219efbd
+Refs:       HEAD -> main
+Subject:    Add GitHub actions.
 
 Repository: git-ibundle.git
 Date:       2024-01-30 17:27:29 -0500
