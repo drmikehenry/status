@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-05-25 21:24:50 -0400
-Commit:     2c7a33b26dfc91ab55df7a98bb5f40e387ebc80c
+Date:       2024-05-27 09:11:30 -0400
+Commit:     ad4118c919436d72689e09f75dedc856c9b841d2
 Refs:       HEAD -> main, origin/main
-Subject:    Disable shortcut startup notifications.
+Subject:    Typo: `pipx` -> `pipxg`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
