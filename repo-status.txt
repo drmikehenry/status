@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-05-27 09:11:30 -0400
-Commit:     ad4118c919436d72689e09f75dedc856c9b841d2
+Date:       2024-06-04 11:08:52 -0400
+Commit:     6ee5aeb1ed36068bfa0a7cec099e09f013a81e3e
 Refs:       HEAD -> main, origin/main
-Subject:    Typo: `pipx` -> `pipxg`.
+Subject:    Ensure `xterm` is installed.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
