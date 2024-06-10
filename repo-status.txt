@@ -101,10 +101,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Document use of sparse checkouts.
 
 Repository: romt.git
-Date:       2024-05-11 06:01:33 -0400
-Commit:     5022a1f871d77bcb0becb6c597d99a31c677ccba
-Refs:       HEAD -> main, tag: v0.6.1, origin/main, origin/HEAD
-Subject:    Note ``httpx`` URL change and proxy-related environment variable details.
+Date:       2024-06-10 13:03:29 -0400
+Commit:     0b598d70bd1ab2d6c9e0dc7e27bd25f49f420e3b
+Refs:       HEAD -> main, tag: v0.7.0, origin/main, origin/HEAD, dev
+Subject:    Document changes for v0.7.0.
 
 Repository: rust-async.git
 Date:       2021-09-25 19:35:12 -0400
