@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-06-04 11:08:52 -0400
-Commit:     6ee5aeb1ed36068bfa0a7cec099e09f013a81e3e
-Refs:       HEAD -> main, origin/main
-Subject:    Ensure `xterm` is installed.
+Date:       2024-06-21 09:03:42 -0400
+Commit:     abceb9383419deeeceb501a89e1a07c3c0cbf5fb
+Refs:       HEAD -> main
+Subject:    Automate `ipython` `confirm_exit` configuration.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
