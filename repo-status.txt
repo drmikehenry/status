@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-06-21 09:21:11 -0400
-Commit:     97cf60153aed36947c52310c5b0157d4ab9627d5
+Date:       2024-06-21 15:37:28 -0400
+Commit:     a1959324ef0ef78e8f60910776a6f15957168f4f
 Refs:       HEAD -> main
-Subject:    Migrate `:role:pipxg` into `:role:workstation`.
+Subject:    Adjust AUTOMATED notes.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
