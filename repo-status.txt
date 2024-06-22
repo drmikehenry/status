@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-06-21 15:37:28 -0400
-Commit:     a1959324ef0ef78e8f60910776a6f15957168f4f
-Refs:       HEAD -> main
-Subject:    Adjust AUTOMATED notes.
+Date:       2024-06-22 08:04:17 -0400
+Commit:     e5aef34145a1a3a62cab3a4ac1d2e4a42784ddce
+Refs:       HEAD -> main, origin/main
+Subject:    De-duplicate a couple of install invocations.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
