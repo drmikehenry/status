@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-05-25 16:35:47 -0400
-Commit:     34ddc4d8dcafd0843c242d07d9932f4e82d7713d
+Date:       2024-06-20 10:30:34 -0400
+Commit:     6948b34da1943e2ba5ad032908c0e679a81d4865
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Adjust `gr`/`gr2` for new Neovim activation scheme.
+Subject:    Add `.ssh/config.d/10-add-keys-to-agent.conf`.
 
 Repository: vimfiles.git
 Date:       2024-05-25 20:56:18 -0400
