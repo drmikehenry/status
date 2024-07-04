@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-07-04 16:42:51 -0400
-Commit:     70dfcf48112ca7fca0b533eb6826847343a686c2
+Date:       2024-07-04 17:14:55 -0400
+Commit:     39e6d1d2148e2240e8359a8a97b33f1cda11392b
 Refs:       HEAD -> main, origin/main
-Subject:    Adapt to Git 2.35+ `safe.directory` for `homegit`.
+Subject:    Note how to install Neovim from Ubuntu package manager.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
