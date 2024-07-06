@@ -67,7 +67,7 @@ Subject:    Allow refs (tags, branches) that aren't commits.
 Repository: install-linux.git
 Date:       2024-07-06 10:11:26 -0400
 Commit:     34006de36ac4850af9bc7641967000d65f266eda
-Refs:       HEAD -> main
+Refs:       HEAD -> main, origin/main
 Subject:    Automate Golang installation.
 
 Repository: manpageview.git
