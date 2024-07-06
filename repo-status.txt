@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-07-04 17:14:55 -0400
-Commit:     39e6d1d2148e2240e8359a8a97b33f1cda11392b
-Refs:       HEAD -> main, origin/main
-Subject:    Note how to install Neovim from Ubuntu package manager.
+Date:       2024-07-06 10:11:26 -0400
+Commit:     34006de36ac4850af9bc7641967000d65f266eda
+Refs:       HEAD -> main
+Subject:    Automate Golang installation.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
