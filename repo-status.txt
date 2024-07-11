@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Add `.ssh/config.d/10-add-keys-to-agent.conf`.
 
 Repository: vimfiles.git
-Date:       2024-05-25 20:56:18 -0400
-Commit:     9c4176f68d230fa870e989c0c42f1313e6c3a4e0
+Date:       2024-07-11 10:24:42 -0400
+Commit:     08c2a4da69c4e5afb69cc64f198869eb8a3a5ad6
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Remove obsolete `python` v2 package notes.
+Subject:    Upgrade Mundo plugin to version 2023-12-15.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
