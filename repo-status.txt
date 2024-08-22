@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Add `.ssh/config.d/10-add-keys-to-agent.conf`.
 
 Repository: vimfiles.git
-Date:       2024-07-21 14:39:19 -0400
-Commit:     360fce321260440132c37341ff9f714d6997d5b0
+Date:       2024-08-22 15:48:59 -0400
+Commit:     c6ce243573a86905d21d3fb628f4396bcd80710a
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add standard source-code support for C#.
+Subject:    Fix error `E492` when using Bash `fc` with stock Vim.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
