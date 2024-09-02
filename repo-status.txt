@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-07-06 10:11:26 -0400
-Commit:     34006de36ac4850af9bc7641967000d65f266eda
+Date:       2024-09-02 16:15:47 -0400
+Commit:     579805ead5d44f8c81ad2339684b06ef910bb630
 Refs:       HEAD -> main, origin/main
-Subject:    Automate Golang installation.
+Subject:    Stop using FQDN during setup.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
