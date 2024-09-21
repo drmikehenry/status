@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-09-14 18:00:04 -0400
-Commit:     e7982f64f8e79c5f0c3383b6917c7b6c76dd7b7d
+Date:       2024-09-21 18:43:52 -0400
+Commit:     4fdfadd3cd6e3b799ca1c7385254c0dc4179947c
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `linehash --bootstrap` feature.
+Subject:    Remove non-ASCII characters from `linehash`; avoid f-strings.
 
 Repository: vimfiles.git
 Date:       2024-08-22 15:48:59 -0400
