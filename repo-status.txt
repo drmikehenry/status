@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adapt to new `[tool.ruff.lint]` sections.
 
 Repository: vimfiles.git
-Date:       2024-08-22 15:48:59 -0400
-Commit:     c6ce243573a86905d21d3fb628f4396bcd80710a
+Date:       2024-10-13 10:47:14 -0400
+Commit:     bf2873899c888a1ce2d41e55a159d8732e0d36a8
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix error `E492` when using Bash `fc` with stock Vim.
+Subject:    Note `notes_search` update.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
