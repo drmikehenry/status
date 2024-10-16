@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adapt to new `[tool.ruff.lint]` sections.
 
 Repository: vimfiles.git
-Date:       2024-10-13 14:36:35 -0400
-Commit:     658040813e41c06fc925c36a7e357bc7b2fafd2f
+Date:       2024-10-16 18:40:07 -0400
+Commit:     4497f1db3b23ec1d5bfee44c401d94130121a3e6
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fixup `<` in `notes.txt`.
+Subject:    Fix `mypy` configuration for venvs; switch to the amazing Ruff.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
