@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-10-12 07:03:14 -0400
-Commit:     1629712350de6c4e47b40412048ca45a7b042b3f
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Adapt to new `[tool.ruff.lint]` sections.
+Date:       2024-10-18 13:29:56 -0400
+Commit:     b910029a6206962b5df8b9453695b99c48f728c2
+Refs:       HEAD -> main
+Subject:    Add Semantic Shell escapes for Konsole.
 
 Repository: vimfiles.git
 Date:       2024-10-16 18:40:07 -0400
@@ -17,10 +17,10 @@ Refs:       HEAD -> master
 Subject:    Upgrade to Tokio 1.0
 
 Repository: ale.git
-Date:       2024-05-08 21:58:16 -0400
-Commit:     c88bddfa83dbb96c2f57426794ed98a0e181ea7e
-Refs:       HEAD -> master, origin/master
-Subject:    Update dart analysis_server command (#4761)
+Date:       2024-10-14 04:45:41 +0200
+Commit:     2e5f135836a700dcc6b787f10097ebdeb8e22abb
+Refs:       HEAD -> master
+Subject:    no need to write and read temporary file with syntax_tree (#4834)
 
 Repository: blacktop.git
 Date:       2018-12-29 11:01:34 -0500
@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-09-02 16:15:47 -0400
-Commit:     579805ead5d44f8c81ad2339684b06ef910bb630
+Date:       2024-10-18 13:17:23 -0400
+Commit:     96c5cd55dae48f44f19911979d45f8bcc8e8cfdf
 Refs:       HEAD -> main, origin/main
-Subject:    Stop using FQDN during setup.
+Subject:    Note some disk-usage utilities.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
