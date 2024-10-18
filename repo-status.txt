@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-10-18 13:17:23 -0400
-Commit:     96c5cd55dae48f44f19911979d45f8bcc8e8cfdf
+Date:       2024-10-18 15:45:59 -0400
+Commit:     f7429d37454009f3ee018c891cf95b3417a35fc0
 Refs:       HEAD -> main, origin/main
-Subject:    Note some disk-usage utilities.
+Subject:    Note how to remove Youtube "end cards".
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
