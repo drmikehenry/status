@@ -5,10 +5,10 @@ Refs:       HEAD -> main
 Subject:    Add Semantic Shell escapes for Konsole.
 
 Repository: vimfiles.git
-Date:       2024-10-16 18:40:07 -0400
-Commit:     4497f1db3b23ec1d5bfee44c401d94130121a3e6
+Date:       2024-10-20 08:08:26 -0400
+Commit:     b1042cfa5a7f8341cfa3a2c0dd289b160894e51a
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix `mypy` configuration for venvs; switch to the amazing Ruff.
+Subject:    Make Vimfiles startup cleanly with Vim-7.4.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
