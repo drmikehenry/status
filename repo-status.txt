@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-10-18 13:29:56 -0400
-Commit:     b910029a6206962b5df8b9453695b99c48f728c2
-Refs:       HEAD -> main
-Subject:    Add Semantic Shell escapes for Konsole.
+Date:       2024-10-23 20:21:31 -0400
+Commit:     fce8cc4484a1f590a9bd05561bb454403cb99050
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Make `pathappend`/`pathprepend` unconditional on directory existence.
 
 Repository: vimfiles.git
 Date:       2024-10-22 05:37:30 -0400
