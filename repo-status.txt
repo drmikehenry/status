@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-10-23 20:21:31 -0400
-Commit:     fce8cc4484a1f590a9bd05561bb454403cb99050
+Date:       2024-10-25 14:52:20 -0400
+Commit:     1a098a8457411dfeabf9e3dcdc7e901d424341ee
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Make `pathappend`/`pathprepend` unconditional on directory existence.
+Subject:    Document Semantic Shell escapes.
 
 Repository: vimfiles.git
 Date:       2024-10-22 05:37:30 -0400
@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-10-18 15:45:59 -0400
-Commit:     f7429d37454009f3ee018c891cf95b3417a35fc0
+Date:       2024-10-25 14:57:16 -0400
+Commit:     22efc477be4fc32f3d33badc326fe38f5daddbc8
 Refs:       HEAD -> main, origin/main
-Subject:    Note how to remove Youtube "end cards".
+Subject:    Update `python-lsp-server` to new installation method.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
