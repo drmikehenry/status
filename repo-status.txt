@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-10-25 14:52:20 -0400
-Commit:     1a098a8457411dfeabf9e3dcdc7e901d424341ee
+Date:       2024-10-26 09:41:33 -0400
+Commit:     0649a8a3d496ad0cdb8cf614f65cc0ee60241a85
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Document Semantic Shell escapes.
+Subject:    Add completion support for `uv`.
 
 Repository: vimfiles.git
 Date:       2024-10-22 05:37:30 -0400
