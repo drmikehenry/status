@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-10-26 14:42:41 -0400
-Commit:     047ce57e60c962facff370e765f1ab65b7cb143b
+Date:       2024-10-26 15:18:11 -0400
+Commit:     9ebe2d2a0113c1dbe228516eef4aa8263ca60390
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Extend `VIRTUALENVWRAPPER` logic for `uvtoolg` as well as `pipxg`.
+Subject:    Put `(venv) ` prompt inside Semantic Shell escapes.
 
 Repository: vimfiles.git
 Date:       2024-10-22 05:37:30 -0400
