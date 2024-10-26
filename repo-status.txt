@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-10-26 09:41:33 -0400
-Commit:     0649a8a3d496ad0cdb8cf614f65cc0ee60241a85
+Date:       2024-10-26 14:42:41 -0400
+Commit:     047ce57e60c962facff370e765f1ab65b7cb143b
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add completion support for `uv`.
+Subject:    Extend `VIRTUALENVWRAPPER` logic for `uvtoolg` as well as `pipxg`.
 
 Repository: vimfiles.git
 Date:       2024-10-22 05:37:30 -0400
@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-10-25 14:57:16 -0400
-Commit:     22efc477be4fc32f3d33badc326fe38f5daddbc8
+Date:       2024-10-26 14:40:44 -0400
+Commit:     951be61027c0d873b0e6528700eabefff563b6b5
 Refs:       HEAD -> main, origin/main
-Subject:    Update `python-lsp-server` to new installation method.
+Subject:    Fix `:creates:` path for `virtualenv` with `uvtoolg`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
