@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Put `(venv) ` prompt inside Semantic Shell escapes.
 
 Repository: vimfiles.git
-Date:       2024-10-22 05:37:30 -0400
-Commit:     8cd22567610a9517d3e3e2d74511c499ed4565ef
+Date:       2024-11-02 08:53:10 -0400
+Commit:     1f7583ed80f8d3d8d54dc2924914ec0d6368ca04
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix use of `mypy --python-executable` on Neovim.
+Subject:    Upgrade togglecursor plugin to version 0.6.0.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
