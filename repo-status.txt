@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-11-03 06:57:14 -0500
-Commit:     94e6d60792b9f4600e8a2295402b922090fe448c
+Date:       2024-11-06 18:48:44 -0500
+Commit:     5fb7fc0bc2ca6fa9483be04d569828e66b6967ab
 Refs:       HEAD -> main, origin/main
-Subject:    Add maintainer's guide.
+Subject:    Note how to check server certificate expiration dates.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
