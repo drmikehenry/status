@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Put `(venv) ` prompt inside Semantic Shell escapes.
 
 Repository: vimfiles.git
-Date:       2024-11-02 08:53:10 -0400
-Commit:     1f7583ed80f8d3d8d54dc2924914ec0d6368ca04
+Date:       2024-11-10 17:39:14 -0500
+Commit:     4b98991a9e2cb0afee9deaffd4a1815c68050f54
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Upgrade togglecursor plugin to version 0.6.0.
+Subject:    Fix typo: `compile_commands.json` uses underscore, not hypen.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
