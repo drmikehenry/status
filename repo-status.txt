@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Put `(venv) ` prompt inside Semantic Shell escapes.
 
 Repository: vimfiles.git
-Date:       2024-11-10 17:39:14 -0500
-Commit:     4b98991a9e2cb0afee9deaffd4a1815c68050f54
+Date:       2024-11-13 19:58:19 -0500
+Commit:     adf4934e57ef22a50950a1d43207e399fc71c352
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix typo: `compile_commands.json` uses underscore, not hypen.
+Subject:    Fix problem with `:Highlight trailingspace` in C code comments.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
