@@ -94,6 +94,12 @@ Commit:     7a7c1c69a1a9865a367bf6c6cdb46d7939b51534
 Refs:       HEAD -> main, tag: v0.4.1, origin/travis, origin/main, origin/HEAD
 Subject:    Update CHANGES.rst.
 
+Repository: pynvim-python.git
+Date:       2024-11-29 11:43:38 -0500
+Commit:     594db0061c3cbc4eef6e0a11e631f554093b65a3
+Refs:       HEAD -> main, origin/main
+Subject:    Initial version.
+
 Repository: pythonsource.git
 Date:       2023-04-29 08:37:33 -0400
 Commit:     7693f70fe85e6caa9298f544ec4a688a3c67f2e2
