@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-10-26 15:18:11 -0400
-Commit:     9ebe2d2a0113c1dbe228516eef4aa8263ca60390
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Put `(venv) ` prompt inside Semantic Shell escapes.
+Date:       2024-12-28 07:10:44 -0500
+Commit:     83033aee3ea0937eb729e3dbacc92e8670b44a7a
+Refs:       HEAD -> main
+Subject:    Add `.gdbinit`.
 
 Repository: vimfiles.git
 Date:       2024-11-13 19:58:19 -0500
