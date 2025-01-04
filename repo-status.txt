@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2024-12-28 07:10:44 -0500
-Commit:     83033aee3ea0937eb729e3dbacc92e8670b44a7a
-Refs:       HEAD -> main
-Subject:    Add `.gdbinit`.
+Date:       2025-01-04 09:29:17 -0500
+Commit:     9ef4ae71af3d07e63561e631e117b507a5157b55
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Fix return value for `diffwrap()` function.
 
 Repository: vimfiles.git
 Date:       2024-11-13 19:58:19 -0500
