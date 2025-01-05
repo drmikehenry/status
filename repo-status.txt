@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Fix return value for `diffwrap()` function.
 
 Repository: vimfiles.git
-Date:       2024-11-13 19:58:19 -0500
-Commit:     adf4934e57ef22a50950a1d43207e399fc71c352
+Date:       2025-01-05 07:18:32 -0500
+Commit:     14de855c24209bf116b168bb3afc367ded6ff966
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix problem with `:Highlight trailingspace` in C code comments.
+Subject:    Upgrade Bufkill plugin to version 2022-04-19.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
