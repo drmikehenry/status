@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2025-01-04 09:29:17 -0500
-Commit:     9ef4ae71af3d07e63561e631e117b507a5157b55
+Date:       2025-01-10 17:03:50 -0500
+Commit:     921023b3b61e6534bd38e224127309b6c75cb0d5
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix return value for `diffwrap()` function.
+Subject:    Add `certcheck`.
 
 Repository: vimfiles.git
 Date:       2025-01-05 07:18:32 -0500
