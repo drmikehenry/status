@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Use Semantic Shell escapes only for Bash 4.4+.
 
 Repository: vimfiles.git
-Date:       2025-01-05 07:18:32 -0500
-Commit:     14de855c24209bf116b168bb3afc367ded6ff966
+Date:       2025-01-14 18:02:06 -0500
+Commit:     a37339b302a5f41c395683f1d201d60b8204bb86
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Upgrade Bufkill plugin to version 2022-04-19.
+Subject:    Update BufExplorer to version 7.4.28 (2024-11-07).
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
@@ -65,10 +65,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2024-11-06 18:48:44 -0500
-Commit:     5fb7fc0bc2ca6fa9483be04d569828e66b6967ab
+Date:       2025-01-14 17:56:37 -0500
+Commit:     25761e419604bf90880f9dca33888c05f47787fa
 Refs:       HEAD -> main, origin/main
-Subject:    Note how to check server certificate expiration dates.
+Subject:    Update Firefox instructions.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
