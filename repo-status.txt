@@ -28,6 +28,12 @@ Commit:     6471bdf2d1b53b7fed6600cd8e2b154c855f583c
 Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Run blacktop against its own setup.py file.
 
+Repository: bufexplorer.git
+Date:       2025-02-16 15:20:19 -0500
+Commit:     13a64f2b8204ff3107825f6c43bedc3badf7e1ab
+Refs:       HEAD -> master, tag: 7.5.0
+Subject:    chore(release.bat): changed release parameters
+
 Repository: bufmru.vim.git
 Date:       2009-05-10 00:00:00 +0000
 Commit:     821869d8b6139536c1122902493de00c654b5a2a
