@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Use Semantic Shell escapes only for Bash 4.4+.
 
 Repository: vimfiles.git
-Date:       2025-02-08 16:58:07 -0500
-Commit:     e2ef8128475aa126d2db612e73e588eb1f94863e
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Test drive some BufExplorer fixes before making a pull request upstream.
+Date:       2025-03-01 06:18:22 -0500
+Commit:     6b816872de2c9e2f03be2d985415fe731d4a6766
+Refs:       HEAD -> main
+Subject:    Add some debugging notes.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
