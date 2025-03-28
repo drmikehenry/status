@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Update `~/bin/ren` to the version from the Perl cookbook.
 
 Repository: vimfiles.git
-Date:       2025-03-08 08:20:57 -0500
-Commit:     e5c369dadde340ead7438b0c4937c3f470acf524
+Date:       2025-03-27 20:13:26 -0400
+Commit:     3e4d4cbcdb8f8be09c3eee22497c1d8584657078
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    - Upgrade BufExplorer to version 7.8.0.
+Subject:    Note some early vimfiles milestones.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
