@@ -29,10 +29,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Run blacktop against its own setup.py file.
 
 Repository: bufexplorer.git
-Date:       2025-03-26 08:29:50 -0400
-Commit:     7193d1daa317b958fb84f6dc845e31f917ff87b1
-Refs:       HEAD -> master, tag: 7.10.0
-Subject:    chore: updated release.bat
+Date:       2025-03-30 15:04:32 -0400
+Commit:     dd25d83b6f538ee16a1b8782a6f89e6896e2e9e2
+Refs:       HEAD -> master
+Subject:    Merge pull request #132 from drmikehenry/fix-131
 
 Repository: bufmru.vim.git
 Date:       2009-05-10 00:00:00 +0000
