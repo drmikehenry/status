@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2025-03-01 15:45:22 -0500
-Commit:     0b9c6c592d3e7ee87bbc4a6703b102b64803a311
+Date:       2025-04-02 17:25:27 -0400
+Commit:     32508abe3d86b4450b24d5154ace0df284dc7e53
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Update `~/bin/ren` to the version from the Perl cookbook.
+Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
 Date:       2025-03-27 20:13:26 -0400
