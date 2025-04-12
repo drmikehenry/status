@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
-Date:       2025-03-27 20:13:26 -0400
-Commit:     3e4d4cbcdb8f8be09c3eee22497c1d8584657078
+Date:       2025-04-12 08:48:09 -0400
+Commit:     a8916fc7fa1490d013d0eae88324f3215284b69e
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Note some early vimfiles milestones.
+Subject:    Upgrade BufExplorer to version 7.12.0.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
@@ -29,10 +29,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Run blacktop against its own setup.py file.
 
 Repository: bufexplorer.git
-Date:       2025-04-07 17:47:16 -0400
-Commit:     b9fbc4d70fa85342bbde62cb5eb0082938ff01fc
+Date:       2025-04-11 08:15:27 -0400
+Commit:     3bfc3885bdc0982840c1f0c95545f390c06c8074
 Refs:       HEAD -> master
-Subject:    Merge pull request #133 from drmikehenry/custom-columns
+Subject:    chore: corrected date
 
 Repository: bufmru.vim.git
 Date:       2009-05-10 00:00:00 +0000
