@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
-Date:       2025-04-12 08:48:09 -0400
-Commit:     a8916fc7fa1490d013d0eae88324f3215284b69e
+Date:       2025-04-12 09:28:25 -0400
+Commit:     2244157080b5567a7c3b8da82295249406d32434
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Upgrade BufExplorer to version 7.12.0.
+Subject:    Fix documentation for testing custom-compiled Vim.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
