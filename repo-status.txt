@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
-Date:       2025-04-12 09:28:25 -0400
-Commit:     2244157080b5567a7c3b8da82295249406d32434
+Date:       2025-04-19 17:58:52 -0400
+Commit:     33313314daeb64b60d2a653d3d762857235f6fff
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix documentation for testing custom-compiled Vim.
+Subject:    Experiment with `pynvim-python-interpreter`.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
