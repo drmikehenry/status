@@ -115,7 +115,7 @@ Subject:    Document use of sparse checkouts.
 Repository: romt.git
 Date:       2025-04-19 15:56:22 -0400
 Commit:     822b563526f9122b3da590f2b7d92218aff6ae5a
-Refs:       HEAD -> main, origin/main, origin/HEAD
+Refs:       HEAD -> main, tag: v0.8.0, origin/main, origin/HEAD
 Subject:    Update version number and change log.
 
 Repository: rust-async.git
