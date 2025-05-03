@@ -100,6 +100,12 @@ Commit:     7a7c1c69a1a9865a367bf6c6cdb46d7939b51534
 Refs:       HEAD -> main, tag: v0.4.1, origin/travis, origin/main, origin/HEAD
 Subject:    Update CHANGES.rst.
 
+Repository: pyinstaller-demo.git
+Date:       2025-05-03 14:57:43 -0400
+Commit:     9b1276fcd9131663784c47be6aa0ccd59e783f82
+Refs:       HEAD -> main
+Subject:    Add CentOS 7 demonstration.
+
 Repository: pynvim-python-interpreter.git
 Date:       2024-11-29 11:43:38 -0500
 Commit:     f7f72656beb2dbb0685a71de59fe2503a660361a
