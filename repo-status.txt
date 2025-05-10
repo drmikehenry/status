@@ -59,10 +59,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Create escWinPath() function to consolidate escaping logic.
 
 Repository: findx.git
-Date:       2024-05-27 16:34:57 -0400
-Commit:     2eebdfdde9a847b34145ce7512c8efb5c5fac1ae
-Refs:       HEAD -> main, tag: v0.11.0, origin/main, origin/HEAD
-Subject:    Note changes for v0.11.0.
+Date:       2025-05-10 08:03:06 -0400
+Commit:     906a2bb585c8ee0b774133b028df9c645abc92c5
+Refs:       HEAD -> main, tag: v0.12.0, origin/main, origin/HEAD
+Subject:    Combine `ubuntu-latest` build into common flow.
 
 Repository: git-ibundle.git
 Date:       2024-01-30 17:27:29 -0500
