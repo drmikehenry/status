@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
-Date:       2025-04-20 08:27:57 -0400
-Commit:     6ff4b7fa5822002d9fb16122bbbaa0f0c5f2a141
+Date:       2025-05-11 16:21:00 -0400
+Commit:     21b122c13b4cb03218b4d7a646d8a1ec4bbe3c7c
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Rework Neovim `pynvim` logic.
+Subject:    Add `datem` snippet.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
