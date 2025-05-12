@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
-Date:       2025-05-11 16:21:00 -0400
-Commit:     21b122c13b4cb03218b4d7a646d8a1ec4bbe3c7c
+Date:       2025-05-12 17:20:03 -0400
+Commit:     4d204dcc464a0a87efad89699874ebff5562f5ee
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `datem` snippet.
+Subject:    Add `jira` syntax support and map `*.jira` files to the `jira` filetype.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
