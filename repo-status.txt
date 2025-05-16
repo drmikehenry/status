@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
-Date:       2025-05-12 17:20:03 -0400
-Commit:     4d204dcc464a0a87efad89699874ebff5562f5ee
+Date:       2025-05-16 14:54:51 -0400
+Commit:     f4021d7a63fc6875981b5c58a6ba8912bc501fd2
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `jira` syntax support and map `*.jira` files to the `jira` filetype.
+Subject:    Document the use of `pynvim-python-interpreter` for `pynvim`.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2025-01-19 09:57:40 -0500
-Commit:     db29f8da9d1ac546a3789fae1ad5a47b2af2120a
+Date:       2025-05-16 15:00:25 -0400
+Commit:     c7695072b73c6ea4a7e86c1a841f7d2d6f08ab2a
 Refs:       HEAD -> main, origin/main
-Subject:    Note how to re-enable standard Firefox title bar.
+Subject:    Convert to `pynvim-python-interpreter` for Neovim Python support.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
