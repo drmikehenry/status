@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Adjust `gdb` configuration to keep history.
 
 Repository: vimfiles.git
-Date:       2025-05-16 14:54:51 -0400
-Commit:     f4021d7a63fc6875981b5c58a6ba8912bc501fd2
+Date:       2025-05-24 10:14:05 -0400
+Commit:     fe133122d5454f79b22ae4941ede1a16b8e9f8f5
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Document the use of `pynvim-python-interpreter` for `pynvim`.
+Subject:    Add missing tag for `jira` syntax plugin.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
