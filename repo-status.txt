@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2025-05-26 09:50:37 -0400
-Commit:     469a4cffdfa7d566a859c6b1924487dbe7971e17
+Date:       2025-05-31 13:21:06 -0400
+Commit:     94ffaff64c1a1b3ed39cefa58454fc02c87cb5e0
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `zig`.
+Subject:    Add `y` function for `yazi` chdir feature.
 
 Repository: vimfiles.git
 Date:       2025-05-24 10:14:05 -0400
@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2025-05-16 15:00:25 -0400
-Commit:     c7695072b73c6ea4a7e86c1a841f7d2d6f08ab2a
+Date:       2025-05-31 13:22:10 -0400
+Commit:     f6ba626194404670c8f5accafbd140c6632761bc
 Refs:       HEAD -> main, origin/main
-Subject:    Convert to `pynvim-python-interpreter` for Neovim Python support.
+Subject:    Add `yazi` file manager.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
@@ -111,12 +111,6 @@ Date:       2024-11-29 11:43:38 -0500
 Commit:     f7f72656beb2dbb0685a71de59fe2503a660361a
 Refs:       HEAD -> main, origin/main
 Subject:    `pynvim-python-interpreter` entrypoint that redirects to `python`.
-
-Repository: pythonsource.git
-Date:       2023-04-29 08:37:33 -0400
-Commit:     7693f70fe85e6caa9298f544ec4a688a3c67f2e2
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Document use of sparse checkouts.
 
 Repository: romt.git
 Date:       2025-04-25 16:52:49 -0400
