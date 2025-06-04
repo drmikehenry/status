@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2025-05-31 13:21:06 -0400
-Commit:     94ffaff64c1a1b3ed39cefa58454fc02c87cb5e0
+Date:       2025-06-04 15:44:06 -0400
+Commit:     e5416a05d0301c93219985092d880cd7b52af04b
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `y` function for `yazi` chdir feature.
+Subject:    Typo: `one` -> `on`.
 
 Repository: vimfiles.git
 Date:       2025-05-24 10:14:05 -0400
