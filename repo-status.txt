@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2025-05-31 13:22:10 -0400
-Commit:     f6ba626194404670c8f5accafbd140c6632761bc
+Date:       2025-06-04 16:45:53 -0400
+Commit:     e778a50b88cc776f094b4a55c76fbc87b0f72f3b
 Refs:       HEAD -> main, origin/main
-Subject:    Add `yazi` file manager.
+Subject:    Install `fzf`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
