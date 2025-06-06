@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2025-06-04 15:44:06 -0400
-Commit:     e5416a05d0301c93219985092d880cd7b52af04b
+Date:       2025-06-06 15:31:40 -0400
+Commit:     5fdf19753906f37828e7011d756695afa4ca3541
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Typo: `one` -> `on`.
+Subject:    Convert to `uv-virtualenvwrapper`.
 
 Repository: vimfiles.git
 Date:       2025-05-24 10:14:05 -0400
@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2025-06-04 16:45:53 -0400
-Commit:     e778a50b88cc776f094b4a55c76fbc87b0f72f3b
+Date:       2025-06-06 15:25:41 -0400
+Commit:     edbb338deb387119a835a7e3cb7aa1d5daae8d72
 Refs:       HEAD -> main, origin/main
-Subject:    Install `fzf`.
+Subject:    Update `fzf` installation notes.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
