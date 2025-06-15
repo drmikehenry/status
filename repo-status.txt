@@ -1,14 +1,14 @@
 Repository: home.git
-Date:       2025-06-06 15:31:40 -0400
-Commit:     5fdf19753906f37828e7011d756695afa4ca3541
+Date:       2025-06-15 16:26:23 -0400
+Commit:     afe132d131728997cb20a225a30f1dea1d350472
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Convert to `uv-virtualenvwrapper`.
+Subject:    Remove obsolete `gitbundle*` scripts.
 
 Repository: vimfiles.git
-Date:       2025-05-24 10:14:05 -0400
-Commit:     fe133122d5454f79b22ae4941ede1a16b8e9f8f5
+Date:       2025-06-15 16:20:23 -0400
+Commit:     d8a3dbb05751571f8c6f82ab88904dc7de84a759
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add missing tag for `jira` syntax plugin.
+Subject:    Upgrade `fontdetect` plugin to version 0.4.0.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
@@ -185,10 +185,10 @@ Refs:       HEAD -> main, tag: v0.3.15, origin/main, origin/HEAD
 Subject:    Fix regression in version 0.3.14 for terminals that lack `TermResponse`.
 
 Repository: vim-fontdetect.git
-Date:       2018-10-27 15:17:00 -0400
-Commit:     c238ea986c4f253085bec6cd168d1e40abd3687b
-Refs:       HEAD -> main, tag: v0.3.0, origin/main, origin/HEAD
-Subject:    Note Python 3 support from Mike Haig.
+Date:       2025-06-15 16:18:19 -0400
+Commit:     642aae7bb6a630ab95244934aced7b5c013f4486
+Refs:       HEAD -> main, tag: v0.4.0, origin/main, origin/HEAD
+Subject:    Version 0.4.0: newer macOS detection using `atsutil`.
 
 Repository: vim-fontsize.git
 Date:       2023-08-19 16:08:49 -0400
