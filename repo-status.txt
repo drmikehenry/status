@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Remove obsolete `gitbundle*` scripts.
 
 Repository: vimfiles.git
-Date:       2025-06-15 16:20:23 -0400
-Commit:     d8a3dbb05751571f8c6f82ab88904dc7de84a759
+Date:       2025-07-14 14:27:24 -0400
+Commit:     4827cee4d9ea5b3a9610c95fc4165c2f14d2f3d1
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Upgrade `fontdetect` plugin to version 0.4.0.
+Subject:    Avoid setting 'pastetoggle' and 'browsedir' if they are undefined.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
