@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Remove obsolete `gitbundle*` scripts.
 
 Repository: vimfiles.git
-Date:       2025-07-30 17:33:06 -0400
-Commit:     a6696f925e8ac5170530b6853acec3b8633bce2e
+Date:       2025-08-20 19:11:12 -0400
+Commit:     9bbd3e118a26dc85c992a779c70f44271331676e
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix typo: `should` -> `shouldn't`.
+Subject:    Upgrade BufExplorer to version 7.13.0.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
