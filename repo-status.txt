@@ -1,14 +1,14 @@
 Repository: home.git
-Date:       2025-06-15 16:26:23 -0400
-Commit:     afe132d131728997cb20a225a30f1dea1d350472
+Date:       2025-09-01 15:16:59 -0400
+Commit:     1bf30d0b772e632f00a07dc75cf136e121f35a31
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Remove obsolete `gitbundle*` scripts.
+Subject:    Update `fifosignal`/`fifowait` from `vimfiles`.
 
 Repository: vimfiles.git
-Date:       2025-08-20 19:11:12 -0400
-Commit:     9bbd3e118a26dc85c992a779c70f44271331676e
+Date:       2025-09-01 15:15:26 -0400
+Commit:     d65c2523c0304c182f87d453de9d744cfd649c71
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Upgrade BufExplorer to version 7.13.0.
+Subject:    Minor changes to `fifosignal` and `fifowait`.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
