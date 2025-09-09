@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2025-09-01 15:04:40 -0400
-Commit:     93ec82c26fbce771642393dfe5859006c002ebbc
+Date:       2025-09-09 04:08:40 -0400
+Commit:     d650daa1650cb7d982dccdad160a7afea7ba9f7a
 Refs:       HEAD -> main, origin/main
-Subject:    Update `wine` instructions.
+Subject:    Use Neovim 0.11.4 and `pynvim` 0.6.0.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
