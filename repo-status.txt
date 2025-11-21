@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2025-11-08 13:39:05 -0500
-Commit:     66d06bc0d2f5b45c1a09b922c669cd02e4ad2930
+Date:       2025-11-21 15:40:41 -0500
+Commit:     d565491146e3c1b9ea4279aaefccbf86d4e72f81
 Refs:       HEAD -> main, origin/main
-Subject:    Add `git-lfs`.
+Subject:    Upgrade Neovim to v0.11.5.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
