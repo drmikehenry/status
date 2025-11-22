@@ -1,14 +1,14 @@
 Repository: home.git
-Date:       2025-11-22 12:57:31 -0500
-Commit:     e3e97cccfd523aa99cec24bfe58c261dce59c701
+Date:       2025-11-22 13:33:50 -0500
+Commit:     51aa43a51d6f7a28a6b4992eddca5647e254f3ab
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Use Zig v0.15.1 for `zig` wrapper.
+Subject:    Wrapper for `zls`.
 
 Repository: vimfiles.git
-Date:       2025-11-22 13:02:07 -0500
-Commit:     0accf99e27b89951e0760efbed03ac8d048c76f3
-Refs:       HEAD -> main
-Subject:    Upgrade support for Zig programming language to version 2025-11-15.
+Date:       2025-11-22 13:26:09 -0500
+Commit:     7b2989e5b29c30143c443efed18df98385746cff
+Refs:       HEAD -> main, origin/main, origin/HEAD
+Subject:    Add basic support for Zig Language Server (`zls`).
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
