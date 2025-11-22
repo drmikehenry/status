@@ -1,14 +1,14 @@
 Repository: home.git
-Date:       2025-09-01 15:16:59 -0400
-Commit:     1bf30d0b772e632f00a07dc75cf136e121f35a31
+Date:       2025-11-22 12:57:31 -0500
+Commit:     e3e97cccfd523aa99cec24bfe58c261dce59c701
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Update `fifosignal`/`fifowait` from `vimfiles`.
+Subject:    Use Zig v0.15.1 for `zig` wrapper.
 
 Repository: vimfiles.git
-Date:       2025-09-01 15:15:26 -0400
-Commit:     d65c2523c0304c182f87d453de9d744cfd649c71
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Minor changes to `fifosignal` and `fifowait`.
+Date:       2025-11-22 13:02:07 -0500
+Commit:     0accf99e27b89951e0760efbed03ac8d048c76f3
+Refs:       HEAD -> main
+Subject:    Upgrade support for Zig programming language to version 2025-11-15.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
