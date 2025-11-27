@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Wrapper for `zls`.
 
 Repository: vimfiles.git
-Date:       2025-11-22 13:26:09 -0500
-Commit:     7b2989e5b29c30143c443efed18df98385746cff
+Date:       2025-11-27 09:55:23 -0500
+Commit:     cefbd9ac17202822d07693efb9d171e1a655b6c5
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add basic support for Zig Language Server (`zls`).
+Subject:    Add `:SetupZig` for Zig-specific setup.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
@@ -191,10 +191,10 @@ Refs:       HEAD -> main, tag: v0.4.0, origin/main, origin/HEAD
 Subject:    Version 0.4.0: newer macOS detection using `atsutil`.
 
 Repository: vim-fontsize.git
-Date:       2023-08-19 16:08:49 -0400
-Commit:     b9612d78887d72f685a78901875aa0bb181fa20d
-Refs:       HEAD -> main, tag: v0.5.0, origin/main, origin/HEAD
-Subject:    Add support for Neovim GUIs (at least nvim-qt and neovide).
+Date:       2025-11-26 16:31:48 -0500
+Commit:     f5836cce99dfcab3417be086bfbc1d14e5140381
+Refs:       HEAD -> main, tag: v0.6.0, origin/main, origin/HEAD
+Subject:    Add `:Fontsize` command to display or change the font size.
 
 Repository: vim-grepper.git
 Date:       2020-07-06 20:37:56 -0600
