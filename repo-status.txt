@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2026-01-03 10:15:01 -0500
-Commit:     11b2e1157c201bddcfe54d3e6c414c84a1988409
+Date:       2026-01-03 10:24:56 -0500
+Commit:     93de54ef251a0f2f3f818a276ca59ac53ff8cba8
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Remove `zig` wrapper.
+Subject:    Remove `zls` wrapper.
 
 Repository: vimfiles.git
 Date:       2025-11-27 09:55:23 -0500
@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2025-11-21 15:40:41 -0500
-Commit:     d565491146e3c1b9ea4279aaefccbf86d4e72f81
+Date:       2026-01-03 10:29:10 -0500
+Commit:     3af8f426acabf0321738c0959cdf936751546ddf
 Refs:       HEAD -> main, origin/main
-Subject:    Upgrade Neovim to v0.11.5.
+Subject:    Document `zig`, `zls` installation.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
