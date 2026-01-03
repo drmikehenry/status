@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2025-11-22 13:33:50 -0500
-Commit:     51aa43a51d6f7a28a6b4992eddca5647e254f3ab
+Date:       2026-01-03 10:15:01 -0500
+Commit:     11b2e1157c201bddcfe54d3e6c414c84a1988409
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Wrapper for `zls`.
+Subject:    Remove `zig` wrapper.
 
 Repository: vimfiles.git
 Date:       2025-11-27 09:55:23 -0500
