@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-01-03 10:29:10 -0500
-Commit:     3af8f426acabf0321738c0959cdf936751546ddf
+Date:       2026-01-09 15:00:00 -0500
+Commit:     13470a1a220d2053858b3688fada701b3718ff60
 Refs:       HEAD -> main, origin/main
-Subject:    Document `zig`, `zls` installation.
+Subject:    Remove symlinks for `python`, `pip`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
