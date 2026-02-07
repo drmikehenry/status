@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-02-02 19:45:48 -0500
-Commit:     1b9f61a2271c113d28e337cffd8cb25b27a03726
+Date:       2026-02-07 10:35:37 -0500
+Commit:     6f2f81a5253a3c246f0c53f6fd2b699cefc66654
 Refs:       HEAD -> main
-Subject:    Add minimal proxmox support.
+Subject:    Initial Proxmox support.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
