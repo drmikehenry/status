@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Remove `zls` wrapper.
 
 Repository: vimfiles.git
-Date:       2025-11-27 09:55:23 -0500
-Commit:     cefbd9ac17202822d07693efb9d171e1a655b6c5
+Date:       2026-02-15 14:32:56 -0500
+Commit:     0baedf3d20ab246002382b57bb9e6f76def9a60b
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `:SetupZig` for Zig-specific setup.
+Subject:    Patch reStructuredText highlighting to forcibly terminal inline markup.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
@@ -221,10 +221,10 @@ Refs:       HEAD -> develop
 Subject:    Use stricter matches. Also don’t count on 'ignorecase' option when matching buffers
 
 Repository: vim-restructuredtext.git
-Date:       2020-05-01 01:58:49 +0800
-Commit:     8284ec393f409b152e5f9cdbe022a9d4f34d84f7
+Date:       2025-10-13 10:46:19 -0400
+Commit:     422ca05e3ee793c724bbe40afd97b42a17bbd90d
 Refs:       HEAD -> master
-Subject:    Fix highlights nested in directive body
+Subject:    Sync with runtime/syntax/rst.vim candidate
 
 Repository: vim-z80.git
 Date:       2017-05-31 08:27:59 +0200
