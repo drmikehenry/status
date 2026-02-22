@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Remove `zls` wrapper.
 
 Repository: vimfiles.git
-Date:       2026-02-15 14:32:56 -0500
-Commit:     0baedf3d20ab246002382b57bb9e6f76def9a60b
+Date:       2026-02-22 17:57:15 -0500
+Commit:     f130b92d684f3111ea3c8fe5b88c66ae9340f78a
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Patch reStructuredText highlighting to forcibly terminal inline markup.
+Subject:    Remove now-obsolete mapping for `gx`.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
