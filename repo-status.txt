@@ -113,10 +113,10 @@ Refs:       HEAD -> main, origin/main
 Subject:    `pynvim-python-interpreter` entrypoint that redirects to `python`.
 
 Repository: romt.git
-Date:       2026-03-25 19:46:30 -0400
-Commit:     a1afe966310b64ce376e9f8bfe4b5fb01da9aa76
-Refs:       HEAD -> main, tag: v0.10.0, origin/main, origin/dev, origin/HEAD
-Subject:    Use `docker build --network=host` work-around.
+Date:       2026-03-26 17:27:47 -0400
+Commit:     5e963976923eb8c79c39f63116eaeb749de3bd29
+Refs:       HEAD -> main, tag: v0.10.2, origin/main, origin/HEAD
+Subject:    Update `CHANGES.rst` and re-release as 0.10.2.
 
 Repository: rust-async.git
 Date:       2021-09-25 19:35:12 -0400
