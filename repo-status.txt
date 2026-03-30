@@ -113,10 +113,10 @@ Refs:       HEAD -> main, origin/main
 Subject:    `pynvim-python-interpreter` entrypoint that redirects to `python`.
 
 Repository: romt.git
-Date:       2026-03-26 17:27:47 -0400
-Commit:     5e963976923eb8c79c39f63116eaeb749de3bd29
-Refs:       HEAD -> main, tag: v0.10.2, origin/main, origin/HEAD
-Subject:    Update `CHANGES.rst` and re-release as 0.10.2.
+Date:       2026-03-30 19:02:59 -0400
+Commit:     68ee77f3163cc1fef4248681a2c30a89eb1913f6
+Refs:       HEAD -> main, tag: v0.10.3, origin/main, origin/HEAD
+Subject:    Add retry loop for downloading to handle transient HTTP errors.
 
 Repository: rust-async.git
 Date:       2021-09-25 19:35:12 -0400
