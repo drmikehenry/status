@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2026-01-03 10:24:56 -0500
-Commit:     93de54ef251a0f2f3f818a276ca59ac53ff8cba8
+Date:       2026-04-03 16:52:23 -0400
+Commit:     e2865d97731fbf19961d7af496a2f4ea32bff602
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Remove `zls` wrapper.
+Subject:    Add `~/.ssh/config` to source control.
 
 Repository: vimfiles.git
 Date:       2026-02-22 17:57:15 -0500
@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-03-07 13:55:10 -0500
-Commit:     26f39ee052d349ee29bac10673cc78541f397e73
+Date:       2026-04-03 16:55:54 -0400
+Commit:     558f202e3a3c42609163bf957cdbc72fe54ff6e8
 Refs:       HEAD -> main
-Subject:    `:role:mox-nfs-server`.
+Subject:    Document permission issue for `~/.ssh` when using `homegit`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
