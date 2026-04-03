@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Add `~/.ssh/config` to source control.
 
 Repository: vimfiles.git
-Date:       2026-02-22 17:57:15 -0500
-Commit:     f130b92d684f3111ea3c8fe5b88c66ae9340f78a
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Remove now-obsolete mapping for `gx`.
+Date:       2026-04-03 17:16:29 -0400
+Commit:     0867d443124a828299ba0ca25eb6391619a6008a
+Refs:       HEAD -> main
+Subject:    Update BufExplorer plugin to version 7.14.0.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
