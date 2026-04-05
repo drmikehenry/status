@@ -7,7 +7,7 @@ Subject:    Add `~/.ssh/config` to source control.
 Repository: vimfiles.git
 Date:       2026-04-05 07:12:48 -0400
 Commit:     805c141a7024de9c0785e813dfa455fbc67e24e0
-Refs:       HEAD -> main
+Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Update UltiSnips to version 2026-04-05.
 
 Repository: act-zero-ext.git
