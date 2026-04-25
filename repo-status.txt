@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-04-03 16:55:54 -0400
-Commit:     558f202e3a3c42609163bf957cdbc72fe54ff6e8
+Date:       2026-04-25 09:26:50 -0400
+Commit:     b18fb4e41051faec571ffe6028c84ec52efe0b27
 Refs:       HEAD -> main
-Subject:    Document permission issue for `~/.ssh` when using `homegit`.
+Subject:    Add `claude-code`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
