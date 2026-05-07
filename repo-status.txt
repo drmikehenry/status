@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Add `~/.ssh/config` to source control.
 
 Repository: vimfiles.git
-Date:       2026-04-05 07:12:48 -0400
-Commit:     805c141a7024de9c0785e813dfa455fbc67e24e0
+Date:       2026-05-06 19:39:55 -0400
+Commit:     330531e2680086c1acb9b5b6d54d7bf1786f359b
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Update UltiSnips to version 2026-04-05.
+Subject:    Support `.rst` and `.md` files with CtrlP buffer tags.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
