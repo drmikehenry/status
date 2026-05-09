@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-09 07:11:46 -0400
-Commit:     1f189009cb2bf9f4871dce97bcfdd01b2b8bfd96
+Date:       2026-05-09 09:02:01 -0400
+Commit:     7b66f8023f3599ac68117d660b66ac8ef6b09f48
 Refs:       HEAD -> main
-Subject:    Remove obsolete `mplayer-gui`.
+Subject:    Update `golang` instructions.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
