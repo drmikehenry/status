@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-09 10:55:47 -0400
-Commit:     f75bccdc6d1607c57217196c0e6146f1295c1748
+Date:       2026-05-09 13:36:32 -0400
+Commit:     61f80c922c82a1a29ca8593744de381e39e0dbb1
 Refs:       HEAD -> main
-Subject:    Fix paste error.
+Subject:    Note new `vncpasswd` 6-8 character limit.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
