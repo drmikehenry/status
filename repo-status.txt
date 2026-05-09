@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-09 10:01:22 -0400
-Commit:     789588e1dd97f1d22e35cda5d5e54660bd363e27
+Date:       2026-05-09 10:55:47 -0400
+Commit:     f75bccdc6d1607c57217196c0e6146f1295c1748
 Refs:       HEAD -> main
-Subject:    Use `unison` from APT repository.
+Subject:    Fix paste error.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
