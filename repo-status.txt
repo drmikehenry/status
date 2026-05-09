@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-04-25 09:26:50 -0400
-Commit:     b18fb4e41051faec571ffe6028c84ec52efe0b27
+Date:       2026-05-09 07:11:46 -0400
+Commit:     1f189009cb2bf9f4871dce97bcfdd01b2b8bfd96
 Refs:       HEAD -> main
-Subject:    Add `claude-code`.
+Subject:    Remove obsolete `mplayer-gui`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
