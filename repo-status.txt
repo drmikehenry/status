@@ -5,10 +5,10 @@ Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Add `~/.ssh/config` to source control.
 
 Repository: vimfiles.git
-Date:       2026-05-06 19:39:55 -0400
-Commit:     330531e2680086c1acb9b5b6d54d7bf1786f359b
+Date:       2026-05-09 09:51:42 -0400
+Commit:     7a6d23b1b5a317a8959d8d317c9bb0a46823358f
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Support `.rst` and `.md` files with CtrlP buffer tags.
+Subject:    Update cpsm plugin to version 2026-02-09.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-09 09:02:01 -0400
-Commit:     7b66f8023f3599ac68117d660b66ac8ef6b09f48
+Date:       2026-05-09 10:01:22 -0400
+Commit:     789588e1dd97f1d22e35cda5d5e54660bd363e27
 Refs:       HEAD -> main
-Subject:    Update `golang` instructions.
+Subject:    Use `unison` from APT repository.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
