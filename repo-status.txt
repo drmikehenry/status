@@ -73,7 +73,7 @@ Subject:    Allow refs (tags, branches) that aren't commits.
 Repository: install-linux.git
 Date:       2026-05-09 17:15:18 -0400
 Commit:     c3cedbe36f5d1a55d10e03b083e42a58b62739b1
-Refs:       HEAD -> main
+Refs:       HEAD -> main, origin/main
 Subject:    Update installation command for `yazi`.
 
 Repository: manpageview.git
