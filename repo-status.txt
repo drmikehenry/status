@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-10 10:09:14 -0400
-Commit:     e3a0ee6ebf76910767b5ecf5ff6dbec6ad75977b
+Date:       2026-05-10 18:29:43 -0400
+Commit:     e303523a83c66d1834a71a2a41a15bbe1d3809b8
 Refs:       HEAD -> main, origin/main
-Subject:    Docuement use of `echod - <<EOF`.
+Subject:    Update `ex-install-linux-local/`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
