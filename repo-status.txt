@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-10 18:29:43 -0400
-Commit:     e303523a83c66d1834a71a2a41a15bbe1d3809b8
+Date:       2026-05-12 05:53:53 -0400
+Commit:     f3eb3b8232dd15a0f6ec74a8a45d965e6f5d036a
 Refs:       HEAD -> main, origin/main
-Subject:    Update `ex-install-linux-local/`.
+Subject:    Variables should be a dictionary.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
