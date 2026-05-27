@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-16 17:31:55 -0400
-Commit:     7648408d429ef5412355230da4e51814b35672e7
+Date:       2026-05-27 17:40:51 -0400
+Commit:     1df7073c05a63414f112197e9ec9aa2ec22eb5c0
 Refs:       HEAD -> main, origin/main
-Subject:    Update Firefox-from-tarball installation notes.
+Subject:    Explain how to use real Gvim when `nvim-qt` is installed first.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
