@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-06-03 05:10:03 -0400
-Commit:     6efa8d2945cb8efe352a8b403c3ff8dd3eb3bc69
+Date:       2026-06-03 15:59:40 -0400
+Commit:     d5b0d87354da81d5ea626fba12d8269e5169ec3f
 Refs:       HEAD -> main, origin/main
-Subject:    Update task bar settings.
+Subject:    Not using virtual desktops anymore.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
