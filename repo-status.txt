@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-05-30 19:21:31 -0400
-Commit:     6565b2613963c95b57a58cd64e482aaebfcf9822
+Date:       2026-06-03 05:10:03 -0400
+Commit:     6efa8d2945cb8efe352a8b403c3ff8dd3eb3bc69
 Refs:       HEAD -> main, origin/main
-Subject:    apparmor rules override for `fusermount3` (for `wdfs`).
+Subject:    Update task bar settings.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
