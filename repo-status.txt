@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-06-03 15:59:40 -0400
-Commit:     d5b0d87354da81d5ea626fba12d8269e5169ec3f
+Date:       2026-06-05 15:41:51 -0400
+Commit:     0c4549e7312401a8a9460e5ab2396cd8f57ad819
 Refs:       HEAD -> main, origin/main
-Subject:    Not using virtual desktops anymore.
+Subject:    Note to use `sddm` for `plasma-x11` sessions.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
