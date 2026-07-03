@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2026-05-28 06:47:32 -0400
-Commit:     25beaf3096fd8f40b3ee49a78773bff0dd7d4f91
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Add `bin/fox`.
+Date:       2026-07-03 17:08:01 -0400
+Commit:     7d41109d7b91b81d7d2fb23a2f23e73d229d257c
+Refs:       HEAD -> main
+Subject:    Update `.gitignore`.
 
 Repository: vimfiles.git
 Date:       2026-05-09 09:51:42 -0400
