@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-07-03 10:46:58 -0400
-Commit:     66381119641ff84739e395afa5af3d224ee1d149
+Date:       2026-07-04 10:23:02 -0400
+Commit:     2dc83bfa2741bac141f1d63e1bba9ee8141b5c17
 Refs:       HEAD -> main
-Subject:    Move gnucash files.
+Subject:    IP renumbering.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
