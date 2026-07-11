@@ -5,10 +5,10 @@ Refs:       HEAD -> main
 Subject:    Update `.gitignore`.
 
 Repository: vimfiles.git
-Date:       2026-05-09 09:51:42 -0400
-Commit:     7a6d23b1b5a317a8959d8d317c9bb0a46823358f
+Date:       2026-07-11 15:34:13 -0400
+Commit:     0b63b2c1370c329ebc37645b3222796f4e7e9f54
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Update cpsm plugin to version 2026-02-09.
+Subject:    Fix Markdown code block highlighting for 3 or more levels of bullet.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
