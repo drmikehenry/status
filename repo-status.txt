@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-07-04 10:23:02 -0400
-Commit:     2dc83bfa2741bac141f1d63e1bba9ee8141b5c17
+Date:       2026-07-11 13:46:12 -0400
+Commit:     ddf8d90d266d4a8cc908b28a800c1204ffa50cfa
 Refs:       HEAD -> main
-Subject:    IP renumbering.
+Subject:    Exclude `/m/srv/rust/` from snapshots.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
