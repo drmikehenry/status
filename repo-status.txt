@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-07-11 16:43:27 -0400
-Commit:     bbf2888386fb9515a8cf4b34e7d752759c27d618
+Date:       2026-07-20 18:53:52 -0400
+Commit:     b7e4d64f93b565895caa0810aa118b0ccc17540a
 Refs:       HEAD -> main, origin/main
-Subject:    Fix indentation.
+Subject:    Use `sync` mounts.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
