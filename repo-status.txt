@@ -1,7 +1,7 @@
 Repository: home.git
 Date:       2026-07-03 17:08:01 -0400
 Commit:     7d41109d7b91b81d7d2fb23a2f23e73d229d257c
-Refs:       HEAD -> main
+Refs:       HEAD -> main, origin/main, origin/HEAD
 Subject:    Update `.gitignore`.
 
 Repository: vimfiles.git
