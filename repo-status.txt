@@ -1,14 +1,14 @@
 Repository: home.git
-Date:       2026-07-03 17:08:01 -0400
-Commit:     7d41109d7b91b81d7d2fb23a2f23e73d229d257c
+Date:       2026-08-13 05:58:30 -0400
+Commit:     845c4dfb36395d6fb823fb47c30f07a3fb4ca08a
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Update `.gitignore`.
+Subject:    Upgrade `ack` to v3.10.0.
 
 Repository: vimfiles.git
-Date:       2026-07-11 15:34:13 -0400
-Commit:     0b63b2c1370c329ebc37645b3222796f4e7e9f54
+Date:       2026-08-13 05:59:57 -0400
+Commit:     dfb9c45762f6fe158bd916d7873eaa9dbb6780ab
 Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Fix Markdown code block highlighting for 3 or more levels of bullet.
+Subject:    Upgrade `ack` to v3.10.0.
 
 Repository: act-zero-ext.git
 Date:       2021-01-13 18:46:45 +0000
