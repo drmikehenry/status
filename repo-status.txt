@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-07-20 18:53:52 -0400
-Commit:     b7e4d64f93b565895caa0810aa118b0ccc17540a
+Date:       2026-10-03 17:15:07 -0400
+Commit:     67e0cf4d44ec29f5179339143b6003613c68d0f4
 Refs:       HEAD -> main, origin/main
-Subject:    Use `sync` mounts.
+Subject:    Note need for `echod` for manual coreutils fix.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
