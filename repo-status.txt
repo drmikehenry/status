@@ -1,8 +1,8 @@
 Repository: home.git
-Date:       2026-09-25 17:58:50 -0400
-Commit:     d4b94e7b4a67e2ec95354037f8ca198c2e66a3c9
-Refs:       HEAD -> main, origin/main, origin/HEAD
-Subject:    Update `fox`.
+Date:       2026-11-18 15:53:54 -0500
+Commit:     fa63c7152bd3d8e8b0cffd99b7f56142657cb520
+Refs:       HEAD -> main
+Subject:    `fox`: Ignore `[WARN ...`.
 
 Repository: vimfiles.git
 Date:       2026-08-13 05:59:57 -0400
