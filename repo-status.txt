@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-11-02 17:58:39 -0500
-Commit:     e6c0debd38064565d2463f953522e144d4859761
+Date:       2026-11-18 16:45:20 -0500
+Commit:     44bf3031da411e64bb23f0e6fb625b572e335e5f
 Refs:       HEAD -> main, origin/main
-Subject:    Note need for `-FullScreenMode=All` for newer `vncviewer`.
+Subject:    Install `proxmox-backup-client`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
