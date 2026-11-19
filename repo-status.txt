@@ -71,10 +71,10 @@ Refs:       HEAD -> main, tag: v0.2.2, origin/main
 Subject:    Allow refs (tags, branches) that aren't commits.
 
 Repository: install-linux.git
-Date:       2026-11-18 16:45:20 -0500
-Commit:     44bf3031da411e64bb23f0e6fb625b572e335e5f
-Refs:       HEAD -> main, origin/main
-Subject:    Install `proxmox-backup-client`.
+Date:       2026-11-19 15:48:43 -0500
+Commit:     e4a39dd884d1d7f3b25f097e4673dfc6198954b0
+Refs:       HEAD -> main
+Subject:    Migrate `/etc/exports` for `bolt` to `install-linux-local`.
 
 Repository: manpageview.git
 Date:       2019-09-15 07:44:28 -0400
