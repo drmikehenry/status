@@ -73,7 +73,7 @@ Subject:    Allow refs (tags, branches) that aren't commits.
 Repository: install-linux.git
 Date:       2026-11-19 15:48:43 -0500
 Commit:     e4a39dd884d1d7f3b25f097e4673dfc6198954b0
-Refs:       HEAD -> main
+Refs:       HEAD -> main, origin/main
 Subject:    Migrate `/etc/exports` for `bolt` to `install-linux-local`.
 
 Repository: manpageview.git
